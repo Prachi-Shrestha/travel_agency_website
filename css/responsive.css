@@ -1,0 +1,42 @@
+@media(max-width: 480px)
+{
+	#head{background-position: top;}
+	.he h1{font-weight: 600; font-size: 40px; padding: 150px 100px;}
+	.header-social{margin-top: -40px}
+	.logo i{font-size: 40px; margin-left: -388px; margin-top: 2px}
+	#about h1{padding-top: 50px; margin-bottom: 20px; font-size: 35px; font-weight: 600}
+	#about p{font-size: 18px; color:#6f7c89; padding-bottom: 50px; line-height: 1.5rem }
+	#popular h1{padding-top: 40px; margin-bottom: 20px; font-size: 35px; font-weight: 600; color: #191b43}
+	#popular p{font-size: 14px; color:black; padding-bottom: 0px }
+	.pd1, .pd2, .pd3{ height:150px; width: 240px; margin:10px 100px; text-align: center;}
+	#packages .hea h1{font-size: 35px; font-weight: 600; color: #191b43}
+	#packages .pl h1{padding:15px 0 10px 0; font-size: 30px }
+	#packages .hea p{padding-bottom: 10px; font-size: 14px; color:#6f7c89}
+	.search h2{font-size: 30px; font-weight: 600}
+    .search i{ right: 53px; top:68px;}
+	.pack, .pack2, .pack1{ height: 60px; padding: 15px; margin-bottom:10px }
+	.gallery-title{ font-size: 30px; font-weight: 600; margin-top: 30px;}
+	.filter-button{ font-size: 18px; margin-bottom: 10px;}
+	#adventure{margin-bottom: -50px}
+	#adventure p{padding-bottom: 10px}
+	.port-image{ width: 50%;}
+	.gallery_product{ margin-bottom: 10px;}
+	#reviews{background-position: top;}
+	#reviews h1{ font-size: 35px }
+	#reviews .pp{font-size: 20px; }
+	.boxp{margin-left: 20px;}
+	.owl-carousel .owl-item img{width: 70px; height: 50px}
+	iframe{height: 300px}
+	#footer{ padding-top: 50px;}
+	.gallery_product img{ height:150px; width:210px}
+	.overlapimage{width: 210px; height: 100%;}
+	.port-image{ width: 200px;}
+	.col-lg-4, .col-md-4, .col-sm-4 ,.col-xs-6{width: 50%}
+	.pr{padding-top: 55px; font-size: 25px; }
+	.nv{margin: 0}
+	.navbar-brand{ padding-left: 5px}
+	.navbar-brand h1{font-size: 18px;position: absolute; top: 12px; left: 80px}
+	.navbar-brand i{margin-left: 0}
+}
+
+
